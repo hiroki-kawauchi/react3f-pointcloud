@@ -1,2 +1,2 @@
 # react3f-pointcloud
-Created with CodeSandbox
+Visualize point cloud data with React three fiber.
